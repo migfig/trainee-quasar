@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Trainee</string>
+    <string name="title_activity_main">Trainee</string>
+    <string name="package_name">org.trainee.app</string>
+    <string name="custom_url_scheme">org.trainee.app</string>
+</resources>
