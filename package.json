@@ -16,7 +16,7 @@
     "@types/highlight.js": "^9.12.4",
     "@types/marked": "^1.1.0",
     "@types/uuid": "^8.0.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "highlight.js": "^10.1.1",
     "jquery": "^3.5.1",
